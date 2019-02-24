@@ -1,2 +1,3 @@
 # Super-Mario-Bros-XNA
-Recreation of the first level of the original Super Mario Bros build in XNA Game Studio 4.0 using Microsoft's .NET framework
+To try out the program, please dowload the Current Build folder and run Super Mario Bros.exe
+Windows is required to run this program
