@@ -1,3 +1,4 @@
-# Super-Mario-Bros-XNA
+# To Run
 To try out the program, please dowload the Current Build folder and run Super Mario Bros.exe
-Windows is required to run this program
+# Requirements
+Windows and a gamepad (in the current build) is required to run and control this program 
